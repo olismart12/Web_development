@@ -1,2 +1,2 @@
-# Web_development
-Website showcasing projects for resume building etc.
+# Web_development for Geological Data Visualisation
+This project showcases a Node.js-based web application designed for visualizing geological data. Built with Node.js, Express.js, MongoDB, and front-end technologies like HTML, TypeScript, and JavaScript, it provides a secure and efficient tool for geologists. Key features include user authentication with JWT and Bcrypt.js, robust data management, and interactive data visualization. Managed with Git and GitHub, this project demonstrates my full-stack development skills and commitment to building user-friendly applications.
