@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Geophysical Data Analysis",
+    "description": "Developed a Python tool using Pandas and NumPy, increasing data processing speed by 30%. Predicted ore body locations with 85% accuracy using machine learning techniques such as support vector machines (SVMs) implemented in Scikit-learn.",
+    "technology": ["Python", "Pandas", "NumPy", "Scikit-learn"],
+    "github": "https://github.com/yourusername/geophysical-data-analysis",
+    "icon": "🌍"
+  },
+  {
+    "name": "Big Data Visualization for Government Reports",
+    "description": "Created dashboards with Power BI improving decision-making by 20%. Integrated data using SQL and Python libraries such as Pandas and NumPy.",
+    "technology": ["Power BI", "SQL", "Python", "Pandas", "NumPy"],
+    "github": "https://github.com/yourusername/big-data-visualization",
+    "icon": "📊"
+  },
+  {
+    "name": "ArcGIS Mapping for Environmental Impact Studies",
+    "description": "Mapped and analysed environmental data using ArcGIS Pro and Python libraries such as ArcPy and GDAL. Conducted spatial analysis to create detailed maps for visualizing environmental impacts.",
+    "technology": ["ArcGIS Pro", "Python", "ArcPy", "GDAL"],
+    "github": "https://github.com/yourusername/arcgis-mapping-environmental",
+    "icon": "🌐"
+  },
+  {
+    "name": "Web Application Development",
+    "description": "Built a web app for geological data visualisation using Node.js, Express.js, and MongoDB. Implemented secure user authentication using JWT and Bcrypt.js. Utilized HTML, TypeScript, and JavaScript for the front end and managed the project with Git and GitHub for version control.",
+    "technology": ["Node.js", "Express.js", "MongoDB", "JWT", "Bcrypt.js", "HTML", "TypeScript", "JavaScript"],
+    "github": "https://github.com/yourusername/web-app-development",
+    "icon": "💻"
+  }
+]
